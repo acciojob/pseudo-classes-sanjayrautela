@@ -11,7 +11,7 @@ article p:first-child{
 }
 
 article p:nth-child(2){
-	
+	color:inherit;
 }
 article p:last-child{
 	color:red;
