@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
-:root{
-	--page-background-color:rgb(135, 206, 235);
-}
 body{
-	background-color: var(--page-background-color);
+	background-color:rgb(135, 206, 235);
 }
 article p:first-child{
 	color:white;
